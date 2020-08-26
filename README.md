@@ -1,8 +1,3 @@
 Классический Сапёр на Реакте
 
-Запуск:
-
-### `npm install`
-### `npm start`
-
-Первый раз что ли?
+https://leonidas51.github.io/Mineswpr/
