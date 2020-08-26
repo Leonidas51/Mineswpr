@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mineswpr/static/css/main.7dc25038.chunk.css",
+    "main.js": "/Mineswpr/static/js/main.781a7973.chunk.js",
+    "main.js.map": "/Mineswpr/static/js/main.781a7973.chunk.js.map",
+    "runtime-main.js": "/Mineswpr/static/js/runtime-main.7a9281eb.js",
+    "runtime-main.js.map": "/Mineswpr/static/js/runtime-main.7a9281eb.js.map",
+    "static/js/2.73179935.chunk.js": "/Mineswpr/static/js/2.73179935.chunk.js",
+    "static/js/2.73179935.chunk.js.map": "/Mineswpr/static/js/2.73179935.chunk.js.map",
+    "index.html": "/Mineswpr/index.html",
+    "precache-manifest.380f08e48add22bd6434ead443772cee.js": "/Mineswpr/precache-manifest.380f08e48add22bd6434ead443772cee.js",
+    "service-worker.js": "/Mineswpr/service-worker.js",
+    "static/css/main.7dc25038.chunk.css.map": "/Mineswpr/static/css/main.7dc25038.chunk.css.map",
+    "static/js/2.73179935.chunk.js.LICENSE.txt": "/Mineswpr/static/js/2.73179935.chunk.js.LICENSE.txt",
+    "static/media/victory.jpg": "/Mineswpr/static/media/victory.291a09be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a9281eb.js",
+    "static/js/2.73179935.chunk.js",
+    "static/css/main.7dc25038.chunk.css",
+    "static/js/main.781a7973.chunk.js"
+  ]
+}
